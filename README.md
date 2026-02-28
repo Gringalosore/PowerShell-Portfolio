@@ -58,7 +58,6 @@ Fonctionnalités du script corrigé :
   - Détection des repositories inactifs (> 180 jours sans push)
   - Statistiques : total, actifs, inactifs avec pourcentages
 
-================================================================================
 DIFFICULTÉS RENCONTRÉES
 ================================================================================
 
@@ -77,7 +76,6 @@ DIFFICULTÉS RENCONTRÉES
   session PowerShell (nécessité d'utiliser SetEnvironmentVariable + affectation
   immédiate de $env:).
 
-================================================================================
 TEMPS PASSÉ PAR EXERCICE
 ================================================================================
 
@@ -89,4 +87,3 @@ TEMPS PASSÉ PAR EXERCICE
   ─────────────────────────────────────────────
   Total                            : ~2h10
 
-================================================================================
