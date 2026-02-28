@@ -78,7 +78,7 @@ DIFFICULTÉS RENCONTRÉES
 
 TEMPS PASSÉ PAR EXERCICE
 ================================================================================
-
+```
   Exercice 1 — Débogage           : ~30 minutes
   Exercice 2 — Reverse Engineering : ~20 minutes
   Exercice 3 — Script avancé      : ~45 minutes
@@ -87,3 +87,4 @@ TEMPS PASSÉ PAR EXERCICE
   ─────────────────────────────────────────────
   Total                            : ~2h10
 
+```
